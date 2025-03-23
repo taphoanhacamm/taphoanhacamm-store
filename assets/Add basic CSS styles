@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tạp Hoá Nhà Cam - Order hàng quốc tế uy tín</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Trang chủ</a></li>
+                <li><a href="pages/about.html">Về chúng tôi</a></li>
+                <li><a href="pages/products.html">Sản phẩm</a></li>
+                <li><a href="pages/contact.html">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Chào mừng đến với Tạp Hoá Nhà Cam</h1>
+        <!-- Thêm nội dung trang chủ -->
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Tạp Hoá Nhà Cam. All rights reserved.</p>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
